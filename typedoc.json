@@ -1,0 +1,4 @@
+{
+  "entryPoints": ["packages/lib"],
+  "entryPointStrategy": "packages"
+}

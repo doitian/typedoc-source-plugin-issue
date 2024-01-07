@@ -1,0 +1,16 @@
+{
+  "name": "typedoc-source-plugin-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "typedoc": "typedoc"
+  },
+  "keywords": [],
+  "author": "Ian Yang",
+  "license": "ISC",
+  "devDependencies": {
+    "typedoc": "^0.25.6"
+  }
+}
